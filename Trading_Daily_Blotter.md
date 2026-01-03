@@ -411,5 +411,5 @@ Fee: 0.44
 
 
 ### Charts (last 30 days)
-![Daily P/L](charts\daily_profit_last30.png)
-![P/L vs Fee](charts\pl_fee_pie_last30.png)
+<img width="1200" height="400" alt="daily_profit_last30" src="https://github.com/user-attachments/assets/f441fb56-866b-4ad9-8789-547cee8ebe40" />
+<img width="600" height="600" alt="pl_fee_pie_last30" src="https://github.com/user-attachments/assets/3320434f-0d0e-4af5-baf0-28dd787efdfb" />
