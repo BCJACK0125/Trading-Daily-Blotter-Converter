@@ -14,11 +14,15 @@ A small Python utility that converts a Binance Cross Margin Order History CSV/XL
 
 ## Quick start
 
-1. Put your Binance Cross Margin Order History CSV or XLSX in the repository root. By default the script expects the file named like:
+1. Put your Binance Cross Margin Order History CSV or XLSX in the repository root. You can export this file from Binance at:
 
-   `Binance-Cross Margin Order History-YYYYMMDDHHMM.csv`
+   https://www.binance.com/en/my/orders/margin/tradeorder
 
-   or the `.xlsx` counterpart.
+   — Click **Export Order History**, choose **Excel** format, and set the **"Cancelled Order Info Display"** option before exporting.
+
+   The exported file is typically named like:
+
+   `Binance-Cross Margin Order History-YYYYMMDDHHMM.xlsx`
 
 2. Install dependencies (use the Python environment you prefer):
 
